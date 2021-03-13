@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @andresherrera9
-- 👀 I’m interested in Computer Science 
-- 🌱 I’m currently learning SQL, Javascript, HTML, CSS.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ 👋 Hi, I’m @andresherrera9
+ 👀 I’m interested in Computer Science 
+ 🌱 I’m currently learning SQL, Javascript, HTML, CSS.
+
 
 <!---
 andresherrera9/andresherrera9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
