@@ -1,6 +1,6 @@
  👋 Hi, I’m @andresherrera9
- 👀 I’m interested in Computer Science 
- 🌱 I’m currently learning SQL, Javascript, HTML, CSS.
+ 👀 I’m interested in Computer Science and Physics! 
+ 🌱 
 
 
 <!---
